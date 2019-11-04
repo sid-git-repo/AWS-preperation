@@ -1,3 +1,12 @@
 https://aws.amazon.com/certification/certified-solutions-architect-associate/
-
+Useful AWS exam prep resources
+Here are some of the resources I used in my prep:
+AWS Certified Solutions Architect Official Study Guide: Associate Exam 
+I read this book front to back, and worked through the questions at the end of each chapter. The book comes with online quizzes and practice tests that were very useful. It is a book though, so it can quickly fall out of date. I’d be careful to choose the latest edition.
+Linux Academy
+Along with covering all things AWS—from security to storage to application services—this course picked up on some subjects the book lacked, like the API Gateway, AWS Lambda, VPC Flow Logs, and application load balancers. I took the final exam of this course a few times. The Linux Academy offers several very useful videos as well.
+Whizlabs
+This course provided plenty of full-length mock exams and practice quizzes. I did all eight of its quizzes, taking a break halfway through to study up on my weak areas before I completed the last four.
+A Cloud Guru
+This was another good, comprehensive tour through AWS, with several videos ranging from 5-20 minutes in length. I completed the course’s final practice exam, which, I think, was harder than the actual AWS exam.
 
